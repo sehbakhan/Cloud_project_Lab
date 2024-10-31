@@ -16,8 +16,13 @@ Create, explore, and modify the app by using Gemini to explain and generate the 
 Run and test the app locally, and then deploy it to Google Cloud by using Gemini to generate the steps.
 
 
-Task 1. Configure your environment and account
-Task 2. Create a Cloud Workstation
-Task 3. Update the Cloud Code extension to enable Gemini
-Task 4. Develop a Python app
-Task 7. Deploy the app to Cloud Run
+Task 1. Configure your environment and account.
+
+Task 2. Create a Cloud Workstation.
+
+Task 3. Update the Cloud Code extension to enable Gemini.
+
+Task 4. Develop a Python app.
+
+Task 5. Deploy the app to Cloud Run.
+
